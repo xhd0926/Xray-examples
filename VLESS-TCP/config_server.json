@@ -5,14 +5,14 @@
     "inbounds": [
         {
             "listen": "0.0.0.0",
-            "port": 1234,
+            "port": 35741,
             "protocol": "vless",
             "settings": {
                 "clients": [
                     {
-                        "id": "",
+                        "id": "9f3a8907-6445-4999-932a-89a1258bd763",
                         "level": 0,
-                        "email": "love@example.com"
+                        "email": "sa.net@outlook.com"
                     }
                 ],
                 "decryption": "none",
